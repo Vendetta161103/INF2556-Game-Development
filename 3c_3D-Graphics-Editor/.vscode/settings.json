@@ -67,6 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "3D-Graphics-and-Editor-Basics.slnx",
+    "dotnet.defaultSolution": "3c_3D-Graphics-Editor.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }

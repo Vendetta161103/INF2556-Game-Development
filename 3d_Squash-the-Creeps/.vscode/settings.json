@@ -67,6 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Squash-the-Creeps---Your-First-3D-Game.slnx",
+    "dotnet.defaultSolution": "3d_Squash-the-Creeps.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
