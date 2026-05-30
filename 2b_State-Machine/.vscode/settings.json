@@ -67,6 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "State-Machine.slnx",
+    "dotnet.defaultSolution": "2b_State-Machine.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
